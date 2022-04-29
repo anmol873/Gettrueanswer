@@ -17,7 +17,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Get Your True Answer</title>
+<title>Get Your True Answer master</title>
 <style>
 .banner-background {
 	clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 100%, 90% 93%, 66% 94%, 4% 94%, 0
